@@ -27,7 +27,7 @@ For the past few years I've been building AI agent systems — autonomous pipeli
 ## 🛠️ Stack
 
 ```
-Languages  →  Python · Kotlin · Rust · SQL · Bash
+Languages  →  Python · Kotlin · Rust · SQL · Bash · TensorFlow (evaluation) · PyTorch (evaluation)
 AI         →  Gemini · Claude · MCP · SSE · Local LLMs
 Infra      →  Linux (CachyOS) · Ubuntu VPS · WireGuard · Docker
 Android    →  Kotlin · Jetpack Compose · Overlay Services
@@ -40,7 +40,8 @@ Tools      →  FastAPI · Playwright · SQLite · Firecrawl
 
 - 📧 idterbaru2023@gmail.com
 - 📱 +6013-427 2686
-- 📍 Pulau Gadong, Melaka
+- https://t.me/Japute
+- 📍, Melaka
 
 ---
 
