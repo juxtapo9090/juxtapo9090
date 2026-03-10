@@ -1,4 +1,4 @@
-# Hey, I'm Aizat 
+# Hey, I'm Ijat Tra Tra
 
 > *Self-taught AI systems builder from Melaka, Malaysia.*
 > *I build things that shouldn't exist — then make them work.*
