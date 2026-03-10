@@ -2,6 +2,7 @@
 
 > *Self-taught AI systems builder from Melaka, Malaysia.*
 > *I build things that shouldn't exist — then make them work.*
+> *Pattern and Market behavior research*
 
 ---
 
