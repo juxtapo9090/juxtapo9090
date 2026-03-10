@@ -1,4 +1,4 @@
-# Hey, I'm Aizat 👋
+# Hey, I'm Aizat 
 
 > *Self-taught AI systems builder from Melaka, Malaysia.*
 > *I build things that shouldn't exist — then make them work.*
@@ -7,7 +7,7 @@
 
 ## 🧠 What I Actually Do
 
-My day job is in Oil & Gas. My nights look different.
+My day job is in fiber optic stuff , muscle grunt works. My nights look different,brain job feeding time.
 
 For the past few years I've been building AI agent systems — autonomous pipelines, multi-model orchestration, cross-platform tooling — entirely self-funded, self-directed, zero team. Not as a hobby. As a compulsion. My brain produces *what if* statements faster than I can ship them.
 
