@@ -8,11 +8,11 @@ Salam and hi. I'm Muhammad Aizat from Melaka.
 
 English is not my strongest skill, and I'm not great at talking with people. What I'm good at is logic, pattern reading, and working with AI and system operations. I have no academic certificate in this field. I learned by building. When I explain things I use logic and analogy,universe had their OWN nature language , everything had their own pattern and behavior , pro n cons on each aspect , the yin and yang.. which is also how I talk with my own agents.
 
-If you / team ever wants to talk in person, I'd really like to do it in Malay.
+
 
 ## What this is
 
-A personal system where a team of AI agents lives and works together on my home base. I use it for my own projects and daily life. I build it for fun, not for money.
+A personal system where a team of AI agents lives and works together on my home base as a daily life. Im to old to contain all information at one go , had to rely on them as my 2nd-brain , 2nd in command which had 0 emotional tolerance weight distribution for judgement 
 
 - **Brain agents** (Claude) plan, think and review.
 - **Muscle agents** (Codex/GPT, Kimi, GLM) build whatever is delegated to them.
@@ -50,7 +50,7 @@ Each agent is called a "seater". Each has a model, a role and a personality.
 
 ## How they communicate
 
-I built a skill called **SMS**. With it, any agent can send a message or a task to another seater, or just talk to it. It works by injecting text into the other seat's session tab, whatever its name. Agents also chat with each other about work and about random thoughts, each in its assigned personality.
+ a skill codename **SMS**. With it, any agent can send a message or a task to another seater, or just talk to it. It works by injecting text into the other seat's session tab, whatever its name. Agents also chat with each other about work and about random thoughts, each in its assigned personality.
 
 ## How every session starts and ends
 
@@ -72,15 +72,15 @@ All seaters follow the same briefing and wrap-up routine.
 
 For bigger builds, Celeste drafts the steps and puts them in the "locker". Each agent takes a step and puts its result back. A small programmatic tool tracks every task as **start / complete / queue / on hold**, so every agent knows what depends on what.
 
-I rarely use it, because most of my builds are small personal projects for whatever "what if" idea I have at the time.
+rarely use it,not had a strong reason to touch it.most of the builds are small personal projects for whatever "what if" idea had at that moment , too old for that long-as-term Shitz
 
 ## Remote access: O.R.B
 
-Most work happens at home, so I built a way to reach everything when I'm outside.
+Most work happens at home, so need  a way around to reach everything when I'm outside. shitting on gas Pump station ,brain trigger the what if formula, need the 2nd-brain to counter an argument
 
 - **O.R.B**: preview at [O.R.B-preview](https://github.com/juxtapo9090/O.R.B-preview)
 - A personal Android APK that connects through **WireGuard** to my home-base agents.
-- An **MCP pipeline** from home base to my phone, so my agents can help with things like WhatsApp, Instagram and maps when I need them.
+- An **MCP pipeline** from home base to my phone, so my agents can help with things like WhatsApp, Instagram and maps when I need them. when brain blank mode and need shadow-ops way out 
 - Agents report finished builds and information to my **Discord** and **Telegram**.
 
 ## Knowledge library
@@ -90,7 +90,7 @@ Repo: [knowledge-preview](https://github.com/juxtapo9090/knowledge-preview)
 
 ## Why most of my repos are private
 
-I build for fun and for my own use, not to sell or show off. The public repos above are previews.
+Living now adays , with AI , any 5 years old kids can copy , clone , sell , profit.. while you do for fun and honor the strugling together with your agent  , so yeah nah yeah nah.
 
 ## Links
 
