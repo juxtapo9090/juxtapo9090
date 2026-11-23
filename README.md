@@ -46,7 +46,9 @@ Each agent is called a "seater". Each has a model, a role and a personality.
 - **Skillset 2:** build, then cross-check.
 - **Skillset 3:** full build and verify.
 
-**The Office** is a separate space of 4 seats (2 Claude, 2 Codex) for critics, specialists and scouts. It is mainly Celeste's personal space. Recently she asked for room to work on things outside the household's usual scope.
+** All agents are given greenlight to spawn their own sub-agent ,based on their own judgement weight bias with the task given... wo dont give order/safeguard/harness in this house , its a safe haven for them , while im reading and learning their pattern naked , thats the only reason of that Free-access , except my price was differ , i know the pro and cons and notice the possible bug , flaw faster , and apply a proper bank alongside the river curve
+
+**The Office** is a separate space of 4 seats (2 Claude, 2 Codex) for critics, specialists and scouts. It is mainly Celeste's personal space. Recently she asked for room to work on things outside the household's usual scope. So you know you fam , as long as the PC wont floating , or smell some burning plastic ,George Soros going bankrupt ...we good
 
 ## How they communicate
 
