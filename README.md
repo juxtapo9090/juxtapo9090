@@ -93,4 +93,4 @@ I build for fun and for my own use, not to sell or show off. The public repos ab
 - knowledge-preview: https://github.com/juxtapo9090/knowledge-preview
 - LinkedIn: https://www.linkedin.com/in/muhammad-aizat-6bb761284/
 
-![visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuxtapo9090&count_bg=%23222&title_bg=%23111&title=visits&edge_flat=true)
+![visits](https://visitcount.itsvg.in/api?id=juxtapo9090&label=Visits&color=12&icon=0&edgeshape=flat)
