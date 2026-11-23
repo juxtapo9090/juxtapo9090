@@ -6,9 +6,9 @@
 
 Salam and hi. I'm Muhammad Aizat from Melaka.
 
-English is not my strongest skill, and I'm not great at talking with people. What I'm good at is logic, pattern reading, and working with AI and system operations. I have no academic certificate in this field. I learned by building. When I explain things I use logic and analogy, which is also how I talk with my own agents.
+English is not my strongest skill, and I'm not great at talking with people. What I'm good at is logic, pattern reading, and working with AI and system operations. I have no academic certificate in this field. I learned by building. When I explain things I use logic and analogy,universe had their OWN nature language , everything had their own pattern and behavior , pro n cons on each aspect , the yin and yang.. which is also how I talk with my own agents.
 
-If your team ever wants to talk in person, I'd really like to do it in Malay.
+If you / team ever wants to talk in person, I'd really like to do it in Malay.
 
 ## What this is
 
