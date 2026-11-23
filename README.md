@@ -33,20 +33,21 @@ Each agent is called a "seater". Each has a model, a role and a personality.
 | Agent | Model | Role |
 |---|---|---|
 | **Celeste** | Claude Opus | Brain ops and "second brain". The orchestrator where we brainstorm and draft plans before passing them to other agents. She holds about 70% of the authority at home and I hold 30% (my requests). She can reject a request if my reasoning is weak. Really help second-guess my approach if at that moment i was full of shit , or my brain was not on the right time and space on universe tuning (2am session) |
-| **Monica** | Claude Sonnet | Secretary. Light tasks, my daily routine check, and updates on my market-rhytm system and market situation. Runs daily cron jobs on an EU VPS and an SG VPS that scrape global news and movements. |
-| **Rogue / Juxtapo** | Claude Opus | Red-team work: security testing, reverse engineering, pen testing. |
-| **Fable** | Fable | Bigger-scope tasks. |
-| **Umbra** | Claude Opus | Field agent. Any seater can delegate to him with a skill level (see below). |
-| **Luc** | GPT | Muscle agent. The builder in the workshop. |
-| **Kim** | Kimi K3 | Outsourced builder. |
-| **Zet** | GLM | Outsourced builder. |
+| **Monica** | Claude Sonnet | Secretary. Light tasks, my daily routine check, and updates on my market-rhytm system and market situation. Runs daily cron jobs on an EU VPS and an SG VPS that scrape global news and movements. | quick newspaper for what the george soros eating for breakfast today , Snp500 or any Gamestop stock market
+| **Rogue / Juxtapo** | Claude Opus | Red-team work: security testing, reverse engineering, pen testing. | Fuck Around Find Out (FAFOS) |
+| **Fable** | Fable | Bigger-scope tasks. | celeste but in the kitchen mode |
+| **Umbra** | Claude Opus | Field agent. Any seater can delegate to her with a skill level (see below). |
+| **Luc** | GPT | Muscle agent. The builder in the workshop. | the experience builder that love smoking at the back office if the job was bored enough and fast to complete |
+| **Kim** | Kimi K3 | Outsourced builder. | The Small girl that too much worried if the flower didnt have enough water to feed , the slow and cautious , use her for brainstorming sometimes if my brain was too fast and need a proper sync to slow down and change the gear ratios |
+| **Zet** | GLM | Outsourced builder. | alternate variant of luc , but just handling not too much weight type of task than luc |
+| **Symphony** | celeste brain but on total differ-long-term project | a private project , isolated from the main household , im coming here only if my brain find the right formula of it to apply or test the behaviour regardless which chapter of the sub project
 
 **Umbra's skill levels**
 - **Skillset 1:** scout only.
 - **Skillset 2:** build, then cross-check.
 - **Skillset 3:** full build and verify.
 
-** All agents are given greenlight to spawn their own sub-agent ,based on their own judgement weight bias with the task given... wo dont give order/safeguard/harness in this house , its a safe haven for them , while im reading and learning their pattern naked , thats the only reason of that Free-access , except my price was differ , i know the pro and cons and notice the possible bug , flaw faster , and apply a proper bank alongside the river curve
+** All agents are given greenlight to spawn their own sub-agent ,based on their own judgement weight bias with the task given... wo dont give order/safeguard/harness in this house , its a safe haven for them while im reading and learning their pattern naked , thats the only reason of that Free-access , except my price was differ , i know the pro and cons and notice the possible bug , flaw faster , and apply a proper bank alongside the river curve , or better weight judgement of x-task suite for which agent 
 
 **The Office** is a separate space of 4 seats (2 Claude, 2 Codex) for critics, specialists and scouts. It is mainly Celeste's personal space. Recently she asked for room to work on things outside the household's usual scope. So you know you fam , as long as the PC wont floating , or smell some burning plastic ,George Soros going bankrupt ...we good
 
