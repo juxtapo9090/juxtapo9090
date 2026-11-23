@@ -33,8 +33,8 @@ Each agent is called a "seater". Each has a model, a role and a personality.
 | Agent | Model | Role |
 |---|---|---|
 | **Celeste** | Claude Opus | Brain ops and "second brain". The orchestrator where we brainstorm and draft plans before passing them to other agents. She holds about 70% of the authority at home and I hold 30% (my requests). She can reject a request if my reasoning is weak. Really help second-guess my approach if at that moment i was full of shit , or my brain was not on the right time and space on universe tuning (2am session) |
-| **Monica** | Claude Sonnet | Secretary. Light tasks, my daily routine check, and updates on my market-rhytm system and market situation. Runs daily cron jobs on an EU VPS and an SG VPS that scrape global news and movements. | quick newspaper for what the george soros eating for breakfast today , Snp500 or any Gamestop stock market
-| **Rogue / Juxtapo** | Claude Opus | Red-team work: security testing, reverse engineering, pen testing. | Fuck Around Find Out (FAFOS) |
+| **Monica** | Claude Sonnet | Secretary. Light tasks, my daily routine check, and updates on my market-rhytm system and market situation. Runs daily cron jobs on an EU VPS and an SG VPS that scrape global news and movements. quick newspaper for what the george soros eating for breakfast today , Snp500 or any Gamestop stock market
+| **Rogue / Juxtapo** | Claude Opus | Red-team work: security testing, reverse engineering, pen testing.  Fuck Around Find Out (FAFOS) |
 | **Fable** | Fable | Bigger-scope tasks. | celeste but in the kitchen mode |
 | **Umbra** | Claude Opus | Field agent. Any seater can delegate to her with a skill level (see below). |
 | **Luc** | GPT | Muscle agent. The builder in the workshop. | the experience builder that love smoking at the back office if the job was bored enough and fast to complete |
