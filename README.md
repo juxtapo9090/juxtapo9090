@@ -18,7 +18,13 @@ A personal system where a team of AI agents lives and works together on my home 
 - **Muscle agents** (Codex/GPT, Kimi, GLM) build whatever is delegated to them.
 - I can reach all of it from my phone when I'm outside.
 
-Architecture diagrams: `Part1.png` (the agent team) and `Part2.png` (the Office).
+**The agent team** — how the seats are arranged:
+
+![The agent team](Part1.png)
+
+**The Office** — a separate 4-seat space for critics and scouts:
+
+![The Office](Part2.png)
 
 ## The agent team
 
@@ -92,5 +98,3 @@ I build for fun and for my own use, not to sell or show off. The public repos ab
 - O.R.B-preview: https://github.com/juxtapo9090/O.R.B-preview
 - knowledge-preview: https://github.com/juxtapo9090/knowledge-preview
 - LinkedIn: https://www.linkedin.com/in/muhammad-aizat-6bb761284/
-
-![visits](https://visitcount.itsvg.in/api?id=juxtapo9090&label=Visits&color=12&icon=0&edgeshape=flat)
