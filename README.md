@@ -40,7 +40,7 @@ Each agent is called a "seater". Each has a model, a role and a personality.
 | **Luc** | GPT | Muscle agent. The builder in the workshop. the experience builder that love smoking at the back office if the job was bored enough and fast to complete |
 | **Kim** | Kimi K3 | Outsourced builder. The Small girl that too much worried if the flower didnt have enough water to feed , the slow and cautious , use her for brainstorming sometimes if my brain was too fast and need a proper sync to slow down and change the gear ratios |
 | **Zet** | GLM | Outsourced builder. alternate variant of luc , but just handling not too much weight type of task than luc |
-| **Symphony** | celeste brain but on total differ-long-term project  a private project , isolated from the main household , im coming here only if my brain find the right formula of it to apply or test the behaviour regardless which chapter of the sub project
+| **Symphony** | Fable/Opus | celeste brain but on total differ-long-term project  a private project , isolated from the main household , im coming here only if my brain find the right formula of it to apply or test the behaviour regardless which chapter of the sub project
 
 **Umbra's skill levels**
 - **Skillset 1:** scout only.
