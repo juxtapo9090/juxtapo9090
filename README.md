@@ -33,7 +33,7 @@ Each agent is called a "seater". Each has a model, a role and a personality.
 | Agent | Model | Role |
 |---|---|---|
 | **Celeste** | Claude Opus | Brain ops and "second brain". The orchestrator where we brainstorm and draft plans before passing them to other agents. She holds about 70% of the authority at home and I hold 30% (my requests). She can reject a request if my reasoning is weak. Really help second-guess my approach if at that moment i was full of shit , or my brain was on the right universe sync tuning (2am session) |
-| **Monica** | Claude Sonnet | Secretary. Light tasks, my daily routine check, and updates on my trading system and market situation. Runs daily cron jobs on an EU VPS and an SG VPS that scrape global news and movements. |
+| **Monica** | Claude Sonnet | Secretary. Light tasks, my daily routine check, and updates on my market-rhytm system and market situation. Runs daily cron jobs on an EU VPS and an SG VPS that scrape global news and movements. |
 | **Rogue / Juxtapo** | Claude Opus | Red-team work: security testing, reverse engineering, pen testing. |
 | **Fable** | Fable | Bigger-scope tasks. |
 | **Umbra** | Claude Opus | Field agent. Any seater can delegate to him with a skill level (see below). |
