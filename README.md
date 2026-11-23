@@ -92,3 +92,5 @@ I build for fun and for my own use, not to sell or show off. The public repos ab
 - O.R.B-preview: https://github.com/juxtapo9090/O.R.B-preview
 - knowledge-preview: https://github.com/juxtapo9090/knowledge-preview
 - LinkedIn: https://www.linkedin.com/in/muhammad-aizat-6bb761284/
+
+![visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuxtapo9090&count_bg=%23222&title_bg=%23111&title=visits&edge_flat=true)
